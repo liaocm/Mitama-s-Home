@@ -1,0 +1,9 @@
+Package: im.liaocm.mitama
+Name: Mitama Home
+Depends: mobilesubstrate
+Version: 3.0.6
+Architecture: iphoneos-arm
+Description: Mitama offers help to fellow Megucas. Supports JP v2.1.6
+Maintainer: Chengming Liao
+Author: Chengming Liao
+Section: Tweaks

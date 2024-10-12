@@ -1,0 +1,9 @@
+Package: com.liaocm.mitamamessagecenter
+Name: MitamaMessageCenter
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Mitama's house where megucas relay messages to each other.
+Maintainer: Meguca
+Author: Meguca
+Section: Tweaks
