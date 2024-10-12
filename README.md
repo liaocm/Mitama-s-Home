@@ -4,6 +4,7 @@ Mitama's Home is an Cydia based iOS package that injects into Magia Record NA bi
 - Editing a card's attributes in battles
 - Editing the enemy's attributes in battles
 - Speeding up the game by up to 3x
+- Autoplay (with speedups!) all mission types, assuming strong enough team comp to pass autoplay gameplay
 - In-game creation of characters
 - In-game debugging console
 - In-game memory access
